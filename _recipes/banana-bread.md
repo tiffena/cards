@@ -15,9 +15,6 @@ major points:
 - contribute to community
 - free yourself from others' expectation
 
-rating:
-This is an excellent book
-
 ---
 
 lovely book
