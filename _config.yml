@@ -2,7 +2,8 @@
 title: Chowdown
 email: your-email@domain.com
 description: The plain text recipe database for hackers
-baseurl: "https://tiffena.github.io"
+url: "https://tiffena.github.io"
+baseurl: "/cards" 
 language: "en"
 lang_direction: "ltr"
 color: "#F53200"
