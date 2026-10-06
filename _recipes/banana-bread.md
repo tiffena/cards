@@ -14,7 +14,6 @@ major points:
 - all problems are interpersonal
 - contribute to community
 - free yourself from others' expectation
- 
 
 rating:
 This is an excellent book
