@@ -20,4 +20,4 @@ This is an excellent book
 
 ---
 
-From Angie's mom
+lovely book
